@@ -39,7 +39,7 @@ Aplicación web con arquitectura en capas (MVC) que permite registrar, listar y 
 
 ```bash
 cd "Laboratory 1/swarch"
-docker compose up --build
+docker-compose up --build
 ```
 
 La aplicación estará disponible en [http://localhost:8080](http://localhost:8080).
